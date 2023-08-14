@@ -4,7 +4,7 @@
 /**
  * main - Entry
  * Return: Alawys return 0 (success)
- */
+*/
 
 
 int main(void)
