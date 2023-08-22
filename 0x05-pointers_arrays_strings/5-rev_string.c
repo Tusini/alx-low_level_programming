@@ -3,13 +3,13 @@
 /**
  * rev_string - prints a string in reverse
  * @s: pointer pointing to the string
- * Return: 0
+ * Return: string in reverse
  */
 
 void rev_string(char *s)
 {
-	int rev = s[0];
-	char counter = 0;
+	char rev = s[0];
+	int counter = 0;
 	int i;
 
 	while (s[counter] != '\0')
