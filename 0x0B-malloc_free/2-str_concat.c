@@ -1,4 +1,3 @@
-
 #include "main.h"
 #include <stdlib.h>
 /**
@@ -25,9 +24,9 @@ if (conct == NULL)
 return (NULL);
 i = ci = 0;
 while (s1[i] != '\0')
-{       
+{
 conct[i] = s1[i];
-i++;		
+i++;
 }
 while (s2[ci] != '\0')
 {
